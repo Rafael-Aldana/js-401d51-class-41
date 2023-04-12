@@ -12,7 +12,7 @@ As a user I want my map view to pan over to my location when I update my locatio
 ### Links and Resources
 
 - [GitHub Actions ci/cd](https://github.com/rkgallaway/server-deployment-practice-d51/actions) 
-- [GitHub-PR]()
+- [GitHub-PR](https://github.com/Rafael-Aldana/js-401d51-class-41/compare/dev2?expand=1)
 
 ### Collaborators
 
