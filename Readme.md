@@ -22,6 +22,7 @@ As a user I want to have the ability to deny to share my location.
 
 #### How to initialize/run your application (where applicable)
 
+- npm expo start
 - npm expo start --tunnel
 
 #### How to use your library (where applicable)
